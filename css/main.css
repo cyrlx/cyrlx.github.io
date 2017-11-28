@@ -99,24 +99,28 @@ h6 {
 @media(max-width:1280px) {
     .intro-header {
         background: url(/img/irish-hands_12.jpg) no-repeat center center;
+        background-size: cover;
     }
 }
 
 @media(max-width:960px) {
     .intro-header {
         background: url(/img/irish-hands_9.jpg) no-repeat center center;
+        background-size: cover;
     }
 }
 
 @media(max-width:600px) {
     .intro-header {
         background: url(/img/irish-hands_6.jpg) no-repeat center center;
+        background-size: cover;
     }
 }
 
 @media(max-width:320px) {
     .intro-header {
         background: url(/img/irish-hands_6.jpg) no-repeat center center;
+        background-size: cover;
     }
 }
 
